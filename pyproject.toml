@@ -39,17 +39,6 @@ classifiers = [
 
     "Topic :: Text Processing :: Linguistic",
 ]
-dependencies = [
-    "datasets",
-    "emoji",
-    "es_core_news_sm",
-    "kaleido",
-    "nltk",
-    "pandas",
-    "swifter",
-    "torch",
-    "transformers",
-]
 
 [project.urls]
 Homepage = "https://github.com/jorgeortizfuentes/spanish_nlp"
