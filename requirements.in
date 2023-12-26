@@ -6,7 +6,6 @@ transformers
 datasets
 swifter
 kaleido
-es_core_news_sm
 flit
 twine
 sphinx
@@ -15,3 +14,4 @@ myst-parser
 pytest
 hatchling
 unidecode
+es_core_news_sm
