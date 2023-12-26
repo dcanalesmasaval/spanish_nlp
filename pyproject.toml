@@ -42,7 +42,7 @@ classifiers = [
 dependencies = [
     "datasets",
     "emoji",
-    "es_core_news_sm" = { path = "es_core_news_sm-3.7.0-py3-none-any.whl"},
+    "es_core_news_sm @ es_core_news_sm-3.7.0-py3-none-any.whl",
     "kaleido",
     "nltk",
     "pandas",
