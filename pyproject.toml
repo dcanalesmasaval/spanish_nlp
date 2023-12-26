@@ -61,3 +61,6 @@ path = "src/spanish_nlp/__about__.py"
 include = [
     "/src",
 ]
+
+[tool.hatch.metadata]
+allow-direct-references = true
